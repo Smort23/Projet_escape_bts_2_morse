@@ -1,0 +1,4 @@
+9/11
+-Clonage du github en local
+-Projet en retard
+-Lecture de documentation sur le panneau d'affichage LED
