@@ -12,3 +12,6 @@ J'ai commencé à programmé le button et le buzzer sur Arduino, et j'ai reussi 
 Nous sommes en retard, même si notre button et le buzzer marchent, je ne sais pas comment les utiliser dans notre code.
 Nous esperons rattraper les séances "perdues" quand on cherchait un possible solution.
 J'ai fait une BDD "MorseProjet" avec une table Best Scores
+
+13/11/2018
+On a reussi l'affichage esporadique, maintenant il faut que les points restent
