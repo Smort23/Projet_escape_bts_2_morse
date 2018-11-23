@@ -3,15 +3,15 @@ Suivi d'activité
 --------------------
 séance 02/11
 --------------------
-travail en binome (Julio) sur le programme 
-(détéction et réception du bipper et du buzzer)
+    - travail en binome (Julio) sur le programme 
+    - (détéction et réception du bipper et du buzzer)
 
 ---------------
 séance 09/11 
 ---------------
-Mise à jour de la plannification
+    - Mise à jour de la plannification
 
-Recherche de solutions sur le bouton poussoir
+Recherche de solutions sur le bouton poussoir (avec JULIO)
 [→] Comment acquérir le signal
 [→] Comment convertir les données et les stocker
 
@@ -23,5 +23,13 @@ absence
 --------------
 séance 23/11
 --------------
-Mise à jour du README.txt et du fichier DOCUMENTS RESSOURCES 
+    - Mise à jour du README.md (description de l'énigme...) et du fichier RESSOURCES.txt
+    - MAJ ET AJOUT de la plannification sur le répertoire du projet_escape
+    - affectation des tâches (Julio : bouton poussoir, Thomas absent)
+    - Programmation du capteur température 
+
+
+
+
+
 
