@@ -2,9 +2,9 @@ Projet_escape_bts_2_morse
 Morse's code's Repostory in arduino.
 
  # étudiants
-GOMEZ Julio
-BOIVEAU Gatien 
-D'AVANZO Thomas
+GOMEZ Julio,
+BOIVEAU Gatien,
+D'AVANZO Thomas,
 
 # énigme
 Le professeur d'anglais a disparu, les joueurs doivent essayer de le retrouver à travers 3 énigmes
@@ -13,6 +13,7 @@ Le professeur d'anglais a disparu, les joueurs doivent essayer de le retrouver �
  - Activer un capteur de température (avec la chaleur du thé).
  
 # materiel necessaire
+Liste du materiel utile au projet (exhaustif) : 
  - panneau LED
  - bouton poussoir
  - capteur température
