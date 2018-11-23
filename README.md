@@ -13,7 +13,6 @@ Le professeur d'anglais a disparu, les joueurs doivent essayer de le retrouver �
  - Activer un capteur de température (avec la chaleur du thé).
  
 # materiel necessaire
-Liste du materiel utile au projet (exhaustif) : 
  - panneau LED
  - bouton poussoir
  - capteur température
