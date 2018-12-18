@@ -7,20 +7,19 @@ BOIVEAU Gatien,
 D'AVANZO Thomas,
 
 # énigme
-Le professeur d'anglais a disparu, les joueurs doivent essayer de le retrouver à travers 3 énigmes
- - Les joueurs doivent trouver le mot TEA (à l'aide de l'énigme sur le panneau LED).
- - Le rertanscrire en morse (via bouton poussoir).
- - Activer un capteur de température (avec la chaleur du thé).
+Le professeur d'anglais a disparu, les joueurs doivent essayer de le retrouver à travers 2 énigmes
+ - Les joueurs doivent taper en morse un message affiché sur le panneau led. celui ci donnera le mot morse
+ - Retranscrire le mot morse sur la console du code et voir si il est validé (MORSE ou morse est accepté).
  
 # materiel necessaire
  - panneau LED
  - bouton poussoir
- - capteur température
- 
- - tasse de thé, bouilloir, décor en carton
- 
+ - afficheur LED
+
  # langage utilisé 
-  - C++ (arduino)
+  - C++ 
+  - arduino
   
  # outils utilisé 
   - Arduino.exe
+  - QtCreator.exe
